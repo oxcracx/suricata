@@ -36,7 +36,7 @@ same as af-packet
 <img width="866" height="629" alt="image" src="https://github.com/user-attachments/assets/cb15406d-7c34-4a7b-9b49-084787b278e1" />
 
 ##### comminity-id
-configure that `from` false to `true`.
+configure that from `false` to `true`.
 <img width="866" height="629" alt="image" src="https://github.com/user-attachments/assets/f77a8444-ff2f-43e9-b4be-f4323e7e25a6" />
 
 
