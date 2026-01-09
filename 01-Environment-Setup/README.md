@@ -1,4 +1,6 @@
-## Why Ubuntu Server
+## Server Configuration 
+
+#### Why Ubantu Server
 I used Ubuntu Server because of its stability, minimal design, and high-performance environment 
 with a low attack surface, allowing Suricata to efficiently inspect network traffic in real time 
 without interference from a GUI or unnecessary services.
