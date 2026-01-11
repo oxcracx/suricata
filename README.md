@@ -7,7 +7,7 @@ environment, including rule management, log analysis, and detection tuning.
 ## Objectives
 - Deploy Suricata on Ubuntu Server
 - Monitor live network traffic
-- Detect reconnaissance attacks (e.g., Nmap scans)
+- Detect reconnaissance attacks (e.g., ping, Nmap scans)
 - Customize Suricata rules
 - Reduce false positives through tuning
 
