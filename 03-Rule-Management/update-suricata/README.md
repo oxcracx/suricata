@@ -3,4 +3,4 @@ After setting all the files and configuration of yaml file. We need to update th
 changes.
 
 #### Update command 
-`sudo sudicata-update`
+`sudo suricata-update`
